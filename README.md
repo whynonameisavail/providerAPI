@@ -26,9 +26,9 @@ Respond:
 {
     "providerList": [
         {
-            "firstName": "a",
-            "lastName": "b",
-            "middleName": "c",
+            "first_name": "a",
+            "last_name": "b",
+            "middle_name": "c",
             "dob": "1990-01-01"
         }
     ]
